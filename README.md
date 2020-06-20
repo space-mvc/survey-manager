@@ -35,3 +35,4 @@ DB_PASSWORD=root
 
 http://local.surveys.com/?annual_income=50000&borrower_trustworthiness=trust&borrower_age=22&loan_length_in_months=14&loan_amount=5000
 
+![](public/survey-example-response.png?raw=true)
